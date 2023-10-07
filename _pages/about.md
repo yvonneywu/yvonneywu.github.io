@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am Yvonne, currently the third-year PhD student at University of Cambridge. 
+Hello, I am Yvonne, currently a second-year PhD student at the University of Cambridge. 
