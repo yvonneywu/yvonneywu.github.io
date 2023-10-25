@@ -10,8 +10,8 @@ redirect_from:
 
 Hi! I am Yvonne, a PhD student in the [Mobile System Group](https://mobile-systems.cl.cam.ac.uk/) at the University of Cambridge, supervised by [Prof. Cecilia Mascolo](https://www.cl.cam.ac.uk/~cm542/). My research journey is generously supported by Nokia Bell Labs.
 
-My research interests focus on building better aritifical intelligence to understand, model and intervene time-sereis data (e.g., wearables or biosignal) to improve health and well-being. The research projects I have been involved in, or am currently working on, include:
-* **Representation learning for time series data**: Learning without expliit human annotation for complex time sereis (e.g., non-stationarity, irregularity) through self-supervision
+My research interests focus on building better artificial intelligence to understand, model and intervene time-series data (e.g., wearables or biosignals) to improve health and well-being. The research projects I have been involved in, or am currently working on, include:
+* **Representation learning for time series data**: Learning without explicit human annotation for complex time series (e.g., non-stationarity, irregularity) through self-supervision
 * **Transfer learning**: Exploring domain adaptation and generalization to tackle distribution shift challenges.
 
 ### News
