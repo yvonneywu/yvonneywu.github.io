@@ -15,7 +15,7 @@ My research interests focus on building better artificial intelligence to unders
 * **Transfer learning**: Exploring domain adaptation and generalization to tackle distribution shift challenges.
 
 ### News
-* Our paper [UDAMA: Unsupervised Domain Adaptation Through Multi Discriminator Adversarial Training With Noisy Labels Improves Cardio Fitness Prediction](https://arxiv.org/abs/2307.16651) has been accepted by Machine Learning for Healthcare 2023 .
+* Our paper [UDAMA: Unsupervised Domain Adaptation Through Multi Discriminator Adversarial Training With Noisy Labels Improves Cardio Fitness Prediction](https://arxiv.org/abs/2307.16651) has been accepted by Machine Learning for Healthcare 2023.
 
 * I received the travel award (by DeepMind) MLHC'23!
 
