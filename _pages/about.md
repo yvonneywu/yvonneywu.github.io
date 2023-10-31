@@ -21,3 +21,4 @@ My research interests focus on building better artificial intelligence to unders
 
 ### Contact Me
 * My email address is yw573{at}cam{dot}ac{uk}.
+* My full CV is [here](https://yvonneywu.github.io/files/YvonneWu.pdf).
