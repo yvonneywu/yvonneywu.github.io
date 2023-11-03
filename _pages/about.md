@@ -12,7 +12,7 @@ Hi! I am Yvonne, a PhD student in the [Mobile System Group](https://mobile-syste
 
 My research interests focus on building better artificial intelligence to understand, model and intervene in multimodal data (e.g., wearables or biosignals or audio) to improve health and well-being. The research projects I have been involved in, or am currently working on, include:
 * **Data mining**: sequence data mining and time-series data modeling with real-world applications in healthcare.
-* **Representation learning **: Learning without explicit human annotation through self-supervision tasks. 
+* **Representation learning**: Learning without explicit human annotation through self-supervision tasks. 
 * **Knowledge Transfer**: Exploring domain adaptation and generalization to tackle distribution shift challenges.
 
 ### News
