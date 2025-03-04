@@ -24,4 +24,4 @@ sequential and multimodal data.
 
 ### Contact Me
 * My email address is yw573{at}cam{dot}ac{uk}.
-* My full CV is [here](https://yvonneywu.github.io/files/YvonneWu.pdf).
+* My full CV is [here](https://yvonneywu.github.io/files/yw_new_cv.pdf).
