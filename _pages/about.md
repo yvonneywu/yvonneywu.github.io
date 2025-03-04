@@ -16,11 +16,10 @@ My research interests focus on building human-centered systems, incorporating we
 sequential and multimodal data.
 * **Trustworthy Deep Learning:**: Improving the robustness and generalization in deep learning for more reliable health outcome predictions.
 ### News
-* I will start the Internship at MSRA hosted by Prof.Lili Qiu from Oct,2024.
+* I started start the Internship at MSRA-shanghai hosted by Prof.Lili Qiu from Oct,2024.
 * Our paper [Towards Open Respiratory Acoustic Foundation Models: Pretraining and Benchmarking]([https://dl.acm.org/doi/10.1145/3627673.3679732](https://arxiv.org/abs/2406.16148)) has been accepted by NeurIPS 2024.
 * Our paper [StatioCL: Contrastive Learning for Time Series via Non-Stationary and Temporal Contrast](https://dl.acm.org/doi/10.1145/3627673.3679732) has been accepted by CIKM 2024.
 * Our paper [UDAMA: Unsupervised Domain Adaptation Through Multi Discriminator Adversarial Training With Noisy Labels Improves Cardio Fitness Prediction](https://arxiv.org/abs/2307.16651) has been accepted by Machine Learning for Healthcare 2023.
-
 * I received the travel award (by DeepMind) MLHC'23!
 
 ### Contact Me
