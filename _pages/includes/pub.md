@@ -1,0 +1,2 @@
+- ``Arxiv`` [Beyond Hearing: Learning Task-agnostic ExG Representations from Earphones via Physiology-informed Tokenization](https://arxiv.org/abs/2510.20853), Hyungjun Yoon(*), Seungjoo Lee(*), **Yu Yvonne Wu**(*), Xiaomeng Chen(*), et al. (* equal contribution)
+ 
