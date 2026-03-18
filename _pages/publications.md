@@ -1,7 +1,7 @@
 ---
 permalink: /publications/
 title: "Publications"
-author_profile: true
+author_profile: false
 ---
 
 - ``ICASSP 2026`` Rethinking Large Language Models For Irregular Time Series Classification In Critical Care, Feixiang Zheng, **Yu Wu**, Cecilia Mascolo, Ting Dang
