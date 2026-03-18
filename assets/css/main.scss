@@ -108,6 +108,11 @@ h1:before, .anchor:before {
     font-size: .8em;
 }
 
+#main:not(:has(.sidebar.sticky)) .page {
+  width: 100% !important;
+  margin-left: 0 !important;
+}
+
 li > code {
     padding: 0.1em 0.5em;
     color: white !important;

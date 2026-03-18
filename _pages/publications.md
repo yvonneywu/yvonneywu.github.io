@@ -3,7 +3,7 @@ permalink: /publications/
 title: ""
 author_profile: false
 ---
-# Selected Publications 
+# Publications 
 - ``ICASSP 2026`` [Rethinking Large Language Models For Irregular Time Series Classification In Critical Care](https://arxiv.org/abs/2601.16516), Feixiang Zheng, **Yu Wu**, Cecilia Mascolo, Ting Dang
 - ``ICASSP 2026`` [AdaNODEs: Test Time Adaptation for Time Series Forecasting Using Neural ODEs](https://arxiv.org/abs/2601.12893), Ting Dang, Soumyajit Chatterjee, Hong Jia, **Yu Wu**, Flora Salim, Fahim Kawsar
 - ``ICLR 2026`` [Beyond Hearing: Learning Task-agnostic ExG Representations from Earphones via Physiology-informed Tokenization](https://arxiv.org/abs/2510.20853), Hyungjun Yoon\*, Seungjoo Lee\*, **Yu Yvonne Wu**\*, Xiaomeng Chen\*, Taiting Lu, Freddy Yifei Liu, Taeckyung Lee, Hyeongheon Cha, Haochen Zhao, Gaoteng Zhao, Sung-Ju Lee, Cecilia Mascolo, Dongyao Chen, Lili Qiu (\* equal contribution)
