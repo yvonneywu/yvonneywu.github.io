@@ -7,7 +7,7 @@
 **Yu Wu**, Ting Dang, Dimitris Spathis, Hong Jia, Cecilia Mascolo
 - ``MLHC 2023`` [Udama: Unsupervised domain adaptation through multi-discriminator adversarial training with noisy labels improves cardio-fitness prediction](https://proceedings.mlr.press/v219/wu23a/wu23a.pdf), 
 **Yu Wu**, Dimitris Spathis, Hong Jia, Ignacio Perez-Pozuelo, Tomas I Gonzales, Soren Brage, Nicholas Wareham, Cecilia Mascolo
-- ``NPJ digital medicine`` [Longitudinal cardio-respiratory fitness prediction through wearables in free-living environments](https://www.nature.com/articles/s41746-022-00719-1), 
+- ``NPJ Digital Medicine`` [Longitudinal cardio-respiratory fitness prediction through wearables in free-living environments](https://www.nature.com/articles/s41746-022-00719-1), 
 Dimitris Spathis, Ignacio Perez-Pozuelo, Tomas I Gonzales, **Yu Wu**, Soren Brage, Nicholas Wareham, Cecilia Mascolo
 
 
