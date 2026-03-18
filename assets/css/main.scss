@@ -107,3 +107,14 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+li > code {
+    padding: 0.1em 0.5em;
+    color: white !important;
+    background-color: #00369f !important;
+    border: none !important;
+    border-radius: 4px;
+    box-shadow: none !important;
+    font-family: inherit;
+    font-size: .85em;
+}

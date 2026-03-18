@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yvonne Wu"
+title                    : "Yu Yvonne Wu"
 description              : "Focusing on multisensory AI models to enhance health and well-being "
 repository               : "yvonneywu/yvonneywu.github.io"
 google_scholar_stats_use_cdn : false
@@ -28,7 +28,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Ezx8coQAAAAJ&hl=en"
-  email            : "yw573@cam.ac.uk"
+  email            : "yvonne.wu@dartmouth.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "yvonneywu"
+  github           : # "yvonneywu"
   google_plus      :
   keybase          :
   instagram        :
