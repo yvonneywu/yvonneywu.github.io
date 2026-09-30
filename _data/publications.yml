@@ -1,0 +1,153 @@
+# Full publication list, rendered by _pages/publications.md.
+# Sections appear in the order below; papers appear in the order listed.
+# Per paper: year, title, authors, venue (short name), venue_full (optional),
+# and links (optional list of name/url pairs shown as buttons).
+
+- section: "Preprints"
+  papers:
+    - year: 2026
+      title: "Wearable Foundation Models Should Go Beyond Static Encoders"
+      authors: "Yu Yvonne Wu, Yuwei Zhang, Hyungjun Yoon, Ting Dang, Dimitris Spathis, Tong Xia, Qiang Yang, Jing Han, Dong Ma, Sung-Ju Lee, Cecilia Mascolo"
+      venue: "arXiv preprint"
+      links:
+        - name: "Paper"
+          url: "https://arxiv.org/abs/2603.19564"
+    - year: 2026
+      title: "TimeThink: Eliciting Compositional Reasoning in Timeseries Large Language Models"
+      authors: "Sudarshan Regmi, Arvind Pillai, Yu Yvonne Wu, Yuliang Chen, Bibek Panthi, Tess Z. Griffin, Michael V. Heinz, Lisa Marsch, Nicholas C. Jacobson, Andrew Campbell"
+      venue: "arXiv preprint"
+      links:
+        - name: "Paper"
+          url: "https://arxiv.org/abs/2609.13457"
+    - year: 2026
+      title: "WEQA: Wearable hEalth Question Answering with Query-Adaptive Agentic Reasoning"
+      authors: "Yuwei Zhang, Tong Xia, Bianca Emmerich, Yu Yvonne Wu, Dimitris Spathis, Xin Liu, Daniel McDuff, Cecilia Mascolo"
+      venue: "arXiv preprint"
+      links:
+        - name: "Paper"
+          url: "https://arxiv.org/abs/2606.18147"
+    - year: 2026
+      title: "VitalAgent: A Tool-Augmented Agent for Reactive and Proactive Physiological Monitoring over Wearable Health Data"
+      authors: "Di Zhu, Yu Yvonne Wu, Hong Jia, Aaqib Saeed, Vassilis Kostakos, Ting Dang"
+      venue: "arXiv preprint"
+      links:
+        - name: "Paper"
+          url: "https://arxiv.org/abs/2605.29483"
+    - year: 2026
+      title: "Learning Transferable Sensor Models via Language-Informed Pretraining"
+      authors: "Yuliang Chen, Arvind Pillai, Yu Yvonne Wu, Tess Z. Griffin, Lisa Marsch, Michael V. Heinz, Nicholas C. Jacobson, Andrew Campbell"
+      venue: "arXiv preprint"
+      links:
+        - name: "Paper"
+          url: "https://arxiv.org/abs/2603.11950"
+
+- section: "2026"
+  papers:
+    - year: 2026
+      title: "BALMS: Benchmarking Agentic LLMs for Longitudinal Mental Health Sensing"
+      authors: "Yu Yvonne Wu, Arvind Pillai, Yuliang Chen, Yuwei Zhang, Sudarshan Regmi, Tess Z. Griffin, Michael V. Heinz, Lisa A. Marsch, Nicholas C. Jacobson, Andrew Campbell"
+      venue: "EMNLP 2026"
+      venue_full: "Conference on Empirical Methods in Natural Language Processing"
+      links:
+        - name: "Paper"
+          url: "https://arxiv.org/abs/2608.27219"
+    - year: 2026
+      title: "Beyond Hearing: Learning Task-agnostic ExG Representations from Earphones via Physiology-informed Tokenization"
+      authors: "Hyungjun Yoon*, Seungjoo Lee*, Yu Yvonne Wu*, Xiaomeng Chen*, Taiting Lu, Freddy Yifei Liu, Taeckyung Lee, Hyeongheon Cha, Haochen Zhao, Gaoteng Zhao, Sung-Ju Lee, Cecilia Mascolo, Dongyao Chen, Lili Qiu (*equal contribution)"
+      venue: "ICLR 2026"
+      venue_full: "International Conference on Learning Representations"
+      links:
+        - name: "Paper"
+          url: "https://arxiv.org/abs/2510.20853"
+    - year: 2026
+      title: "Rethinking Large Language Models for Irregular Time Series Classification in Critical Care"
+      authors: "Feixiang Zheng, Yu Wu, Cecilia Mascolo, Ting Dang"
+      venue: "ICASSP 2026"
+      venue_full: "IEEE International Conference on Acoustics, Speech, and Signal Processing"
+      links:
+        - name: "Paper"
+          url: "https://arxiv.org/abs/2601.16516"
+    - year: 2026
+      title: "AdaNODEs: Test-Time Adaptation for Time Series Forecasting Using Neural ODEs"
+      authors: "Ting Dang, Soumyajit Chatterjee, Hong Jia, Yu Wu, Flora Salim, Fahim Kawsar"
+      venue: "ICASSP 2026"
+      venue_full: "IEEE International Conference on Acoustics, Speech, and Signal Processing"
+      links:
+        - name: "Paper"
+          url: "https://arxiv.org/abs/2601.12893"
+    - year: 2026
+      title: "ReliaGate: Reliability Routing for Low-Stakes Wearable Stress Prediction"
+      authors: "Jaden Moon, Yu Yvonne Wu, Arvind Pillai, Andrew Campbell"
+      venue: "WellComp @ UbiComp/ISWC 2026"
+      venue_full: "Workshop on Computing for Well-being"
+      links:
+        - name: "Paper"
+          url: "https://arxiv.org/abs/2608.15951"
+
+- section: "2025"
+  papers:
+    - year: 2025
+      title: "OCMDP: Observation-Constrained Markov Decision Process"
+      authors: "Taiyi Wang, Jianheng Liu, Bryan Lee, Zhihao Wu, Yu Wu"
+      venue: "IJCNN 2025"
+      venue_full: "International Joint Conference on Neural Networks"
+      links:
+        - name: "Paper"
+          url: "https://ieeexplore.ieee.org/document/11228072"
+
+- section: "2024"
+  papers:
+    - year: 2024
+      title: "StatioCL: Contrastive Learning for Time Series via Non-Stationary and Temporal Contrast"
+      authors: "Yu Wu, Ting Dang, Dimitris Spathis, Hong Jia, Cecilia Mascolo"
+      venue: "CIKM 2024"
+      venue_full: "ACM International Conference on Information and Knowledge Management"
+      links:
+        - name: "Paper"
+          url: "https://dl.acm.org/doi/10.1145/3627673.3679732"
+    - year: 2024
+      title: "Towards Open Respiratory Acoustic Foundation Models: Pretraining and Benchmarking"
+      authors: "Yuwei Zhang, Tong Xia, Jing Han, Yu Yvonne Wu, Georgios Rizos, Yang Liu, Mohammed Mosuily, Jagmohan Chauhan, Cecilia Mascolo"
+      venue: "NeurIPS 2024"
+      venue_full: "Advances in Neural Information Processing Systems, Datasets and Benchmarks Track"
+      links:
+        - name: "Paper"
+          url: "https://proceedings.neurips.cc/paper_files/paper/2024/file/2f803abdcad9de35b45d5a656dade45c-Paper-Datasets_and_Benchmarks_Track.pdf"
+    - year: 2024
+      title: "IMChew: Chewing Analysis using Earphone Inertial Measurement Units"
+      authors: "Tamisa Ketmalasiri, Yu Yvonne Wu, Kayla-Jade Butkow, Cecilia Mascolo, Yang Liu"
+      venue: "BodySys @ MobiSys 2024"
+      venue_full: "Workshop on Body-Centric Computing Systems"
+      links:
+        - name: "Paper"
+          url: "https://dl.acm.org/doi/abs/10.1145/3662009.3662022"
+
+- section: "2023"
+  papers:
+    - year: 2023
+      title: "UDAMA: Unsupervised Domain Adaptation through Multi-discriminator Adversarial Training with Noisy Labels Improves Cardio-fitness Prediction"
+      authors: "Yu Wu, Dimitris Spathis, Hong Jia, Ignacio Perez-Pozuelo, Tomas I. Gonzales, Soren Brage, Nicholas Wareham, Cecilia Mascolo"
+      venue: "MLHC 2023"
+      venue_full: "Machine Learning for Healthcare"
+      links:
+        - name: "Paper"
+          url: "https://proceedings.mlr.press/v219/wu23a.html"
+
+- section: "2022"
+  papers:
+    - year: 2022
+      title: "Longitudinal Cardio-respiratory Fitness Prediction through Wearables in Free-living Environments"
+      authors: "Dimitris Spathis, Ignacio Perez-Pozuelo, Tomas I. Gonzales, Yu Wu, Soren Brage, Nicholas Wareham, Cecilia Mascolo"
+      venue: "npj Digital Medicine"
+      venue_full: "5(176)"
+      links:
+        - name: "Paper"
+          url: "https://www.nature.com/articles/s41746-022-00719-1"
+    - year: 2022
+      title: "Turning Silver into Gold: Domain Adaptation with Noisy Labels for Wearable Cardio-Respiratory Fitness Prediction"
+      authors: "Yu Wu, Dimitris Spathis, Hong Jia, Ignacio Perez-Pozuelo, Tomas I. Gonzales, Soren Brage, Nicholas Wareham, Cecilia Mascolo"
+      venue: "ML4H 2022"
+      venue_full: "Machine Learning for Health"
+      links:
+        - name: "Paper"
+          url: "https://arxiv.org/abs/2211.10475"

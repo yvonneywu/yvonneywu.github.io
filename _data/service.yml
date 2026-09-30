@@ -1,0 +1,59 @@
+# Service page content, rendered by _pages/service.md.
+# Mentees: period, name, url (optional), role, institution,
+# interests (optional), and papers (optional list of title/url/venue).
+
+mentoring:
+  - period: "2026–Present"
+    name: "Jaden Moon"
+    role: "Undergraduate Student"
+    institution: "Dartmouth College"
+    papers:
+      - title: "ReliaGate: Reliability Routing for Low-Stakes Wearable Stress Prediction"
+        url: "https://arxiv.org/abs/2608.15951"
+        venue: "WellComp @ UbiComp/ISWC 2026"
+  - period: "2026–Present"
+    name: "Yuliang Chen"
+    url: "https://yuc0805.github.io/"
+    role: "PhD Student"
+    institution: "Dartmouth College"
+    interests: "Representation learning and multimodal reasoning for sensor data, with applications in digital health."
+    papers:
+      - title: "Learning Transferable Sensor Models via Language-Informed Pretraining"
+        url: "https://arxiv.org/abs/2603.11950"
+        venue: "arXiv preprint"
+  - period: "2025"
+    name: "Feixiang Zheng"
+    role: "Master's Student"
+    institution: "The University of Melbourne"
+    papers:
+      - title: "Rethinking Large Language Models for Irregular Time Series Classification in Critical Care"
+        url: "https://arxiv.org/abs/2601.16516"
+        venue: "ICASSP 2026"
+  - period: "2023–2024"
+    name: "Tamisa Ketmalasiri"
+    role: "Undergraduate Student"
+    institution: "University of Cambridge"
+    papers:
+      - title: "IMChew: Chewing Analysis using Earphone Inertial Measurement Units"
+        url: "https://dl.acm.org/doi/abs/10.1145/3662009.3662022"
+        venue: "BodySys @ MobiSys 2024"
+
+committee:
+  - role: "Workshop Chair"
+    venue: "Computing for Well-being (WellComp) @ UbiComp/ISWC"
+    url: "https://wellcomp2026.github.io/index.html"
+    year: "2026"
+  - role: "Web Chair"
+    venue: "ACM MobiSys"
+    year: "2026"
+  - role: "TPC Member"
+    venue: "Workshop on Body-Centric Computing Systems (BodySys) @ UbiComp"
+    year: "2025"
+  - role: "TPC Member"
+    venue: "Human-Centric Representation Learning Workshop @ AAAI"
+    year: "2024"
+  - role: "TPC Member"
+    venue: "Computing for Well-being (WellComp) @ UbiComp"
+    year: "2022"
+
+reviewing: "ICLR, ICML, AAAI, IJCAI, KDD, UbiComp/IMWUT, and others"

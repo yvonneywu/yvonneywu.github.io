@@ -123,3 +123,190 @@ li > code {
     font-family: inherit;
     font-size: .85em;
 }
+
+/* Publications and Service pages: year-grouped lists */
+.pub-page {
+    .pub-section {
+        margin-bottom: 2.5em;
+    }
+
+    .pub-section-title {
+        margin: 1.5em 0 1em;
+        font-size: $type-size-4;
+    }
+
+    .pub-list {
+        display: flex;
+        flex-direction: column;
+        gap: 1.6em;
+    }
+
+    .pub {
+        display: flex;
+        gap: 1em;
+    }
+
+    .pub-year {
+        flex-shrink: 0;
+        width: 3em;
+        padding-top: 0.15em;
+        text-align: right;
+        font-size: 0.87em;
+        color: $gray;
+
+        &--wide {
+            width: 7em;
+        }
+    }
+
+    .pub-body p {
+        margin: 0 0 0.25em;
+    }
+
+    .pub-body .pub-title {
+        font-weight: 600;
+        line-height: 1.45;
+        color: $text-color;
+    }
+
+    .pub-body .pub-authors {
+        font-size: 0.9em;
+        color: $gray;
+
+        .me {
+            font-weight: 600;
+            color: $text-color;
+        }
+    }
+
+    .pub-body .pub-venue {
+        margin-bottom: 0.5em;
+        font-size: 0.9em;
+        font-style: italic;
+        color: $gray;
+
+        .venue-name {
+            font-style: normal;
+            font-weight: 600;
+            color: #00369f;
+        }
+    }
+
+    .pub-links {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.4em;
+    }
+
+    a.pub-link {
+        padding: 0.1em 0.7em;
+        font-size: 0.8em;
+        text-decoration: none;
+        color: $link-color;
+        background: $code-background-color;
+        border: 1px solid $border-color;
+        border-radius: 4px;
+        transition: background 0.15s, border-color 0.15s;
+
+        &:hover {
+            text-decoration: none;
+            background: mix(#fff, $link-color, 85%);
+            border-color: $link-color;
+        }
+    }
+
+    .service-list {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .service-item {
+        display: flex;
+        justify-content: space-between;
+        align-items: baseline;
+        gap: 1em;
+        padding: 0.6em 0;
+        border-bottom: 1px solid $border-color;
+
+        &:last-child {
+            border-bottom: none;
+        }
+    }
+
+    .service-years {
+        flex-shrink: 0;
+        font-size: 0.87em;
+        color: $gray;
+    }
+
+    @media (max-width: 600px) {
+        .pub {
+            flex-direction: column;
+            gap: 0.3em;
+        }
+
+        .pub-year {
+            width: auto;
+            text-align: left;
+        }
+    }
+}
+
+
+/* Homepage: experience list with logos */
+.exp-list {
+    display: flex;
+    flex-direction: column;
+    gap: 1.4em;
+    margin-top: 1.2em;
+
+    .exp {
+        display: flex;
+        align-items: flex-start;
+        gap: 1em;
+    }
+
+    .exp-logo {
+        flex-shrink: 0;
+        width: 44px;
+        height: 44px;
+        overflow: hidden;
+        background: $background-color;
+        border: 1px solid $border-color;
+        border-radius: 8px;
+
+        img {
+            display: block;
+            width: 100%;
+            height: 100%;
+            padding: 8px;
+            object-fit: contain;
+        }
+
+        &--fill {
+            border: none;
+
+            img {
+                padding: 0;
+            }
+        }
+    }
+
+    .exp-body p {
+        margin: 0;
+    }
+
+    .exp-body .exp-role {
+        font-weight: 600;
+        color: $text-color;
+    }
+
+    .exp-body .exp-org {
+        color: $link-color;
+    }
+
+    .exp-body .exp-meta {
+        font-size: 0.9em;
+        color: $gray;
+    }
+}
