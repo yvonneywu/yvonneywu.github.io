@@ -6,6 +6,20 @@
 - section: "Preprints"
   papers:
     - year: 2026
+      title: "MontageFlow: Physically Valid High Fidelity EEG Generation"
+      authors: "Sudarshan Regmi, Nabaraj Subedi, Arvind Pillai, Yu Yvonne Wu, Yuliang Chen, Michael V. Heinz, Lisa Marsch, Nicholas C. Jacobson, Andrew Campbell"
+      venue: "arXiv preprint"
+      links:
+        - name: "Paper"
+          url: "https://arxiv.org/abs/2610.14507"
+    - year: 2026
+      title: "Lapras: Latent Reasoning for Time Series Language Models"
+      authors: "Yuliang Chen, Yu Yvonne Wu, Patrick Langer, Arvind Pillai, Sudarshan Regmi, Martin Maritsch, Juncheng Liu, Robert Jakob, Thomas Kaar, Tess Z. Griffin, Lisa Marsch, Michael V. Heinz, Nicholas C. Jacobson, Andrew Campbell"
+      venue: "arXiv preprint"
+      links:
+        - name: "Paper"
+          url: "https://arxiv.org/abs/2610.11111"
+    - year: 2026
       title: "Wearable Foundation Models Should Go Beyond Static Encoders"
       authors: "Yu Yvonne Wu, Yuwei Zhang, Hyungjun Yoon, Ting Dang, Dimitris Spathis, Tong Xia, Qiang Yang, Jing Han, Dong Ma, Sung-Ju Lee, Cecilia Mascolo"
       venue: "arXiv preprint"
