@@ -45,6 +45,7 @@ committee:
     year: "2026"
   - role: "Web Chair"
     venue: "ACM MobiSys"
+    url: "https://www.sigmobile.org/mobisys/2026/"
     year: "2026"
   - role: "TPC Member"
     venue: "Workshop on Body-Centric Computing Systems (BodySys) @ UbiComp"
